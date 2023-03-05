@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! My name is Elias👋
+(EN)
+- 💻I’m a Font-end Developer
 
-<!--
-**emfrontenddev/emfrontenddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(PT-BR)
 
-Here are some ideas to get you started:
+- 💻Eu sou desenvolvedor Front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+MY SKILLS:
+<div style="inline_block">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+##
+CONTACT:
+<div>
+  <a href="https://instagram.com/emfrontend" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://tiktok.com/@emfrontend" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+</div>

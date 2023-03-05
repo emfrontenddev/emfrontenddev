@@ -1,11 +1,6 @@
 ### Hi! My name is Elias👋
 (EN)
 - 💻I’m a Font-end Developer
-
-(PT-BR)
-
-- 💻Eu sou desenvolvedor Front-end
-
 ## 
 MY SKILLS:
 <div style="inline_block">

@@ -1,5 +1,4 @@
 ### Hi! My name is Elias👋
-(EN)
 - 💻I’m a Font-end Developer
 ## 
 MY SKILLS:

@@ -1,6 +1,6 @@
 ### Hi! My name is Elias👋
 - 💻 I’m a Font-end Developer
-- 🧑‍💻 20 years old.
+- 🧑‍💻 20 years old
 - 📄 I like design and technology. Python was the first language I learned the basics of programming logic. I have web development skills with CSS and JS. I also use Figma.
 ## 
 MY SKILLS:

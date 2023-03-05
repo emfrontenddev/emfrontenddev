@@ -1,6 +1,6 @@
 ### Hi! My name is Elias👋
 - 💻 I’m a Font-end Developer
-- 📄 I like design and technology, python was the first language I learned the basics of programming logic. I have web development skills with CSS and JS, I also use Figma.
+- 📄 I like design and technology python was the first language I learned the basics of programming logic. I have web development skills with CSS and JS. I also use Figma.
 ## 
 MY SKILLS:
 <div style="inline_block">
